@@ -1,0 +1,16 @@
+body {
+    background: #141414;
+    color: #fff;
+}
+
+button {
+    text-decoration:none; 
+    display: block; 
+    margin-right: auto; 
+    margin-left: auto;
+    margin-top: 14px;
+}
+
+a {
+    text-decoration:none; 
+}
