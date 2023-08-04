@@ -1,5 +1,11 @@
 # coin_market
 
+Lee Api https://www.coingecko.com/es y al dar click en botón redirecciona a otra página con imagen
+
+Link de la API para Obtener el precio de las Criptomonedas:
+[https://www.coingecko.com/es](https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false)
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
