@@ -40,7 +40,7 @@
 <template>
   <div class="container">
   <div class="row">  
-  <h1>Martin Dorantes Martínez, Cripto Monedas</h1>
+  <h1>Martín Dorantes Martínez, Cripto Monedas</h1>
   <button @click="redirectToImagePage">Cerrar Página Actual y Mostrar página con imagen </button>
   <a href="src/imagen.html" target="_blank"><button > NO Cerrar Página Actual e Ir a Página Nueva con imagen </button></a>
   <input type="text" class="form-control bg-dark text-light rounded-0 my-4" 
